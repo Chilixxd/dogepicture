@@ -1,2 +1,0 @@
-# dogepicture
-Dogepicture for script
